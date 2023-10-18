@@ -30,5 +30,13 @@ img{
 figcaption{
     color: red;
     font-size: 30px;
-    
+
+}
+footer{
+    background-color: black;
+}
+li{
+   color: red;
+   list-style: none;
+   
 }
